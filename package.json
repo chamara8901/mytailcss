@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "name": "mytailcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
